@@ -1,7 +1,7 @@
 ### Hello there, I'm Anjana Bandara 👋
 - ✨I'm an undergraduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa](https://uom.lk/),[Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
 
-- ⚡ I’m interested in Electronics, Telecommunication and Networking
+- ⚡ I’m interested in Electronics, Telecommunication and Networking.
 - ❤ I love [![Awesome Badges](https://img.shields.io/badge/%20-Electronics-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Telecommunication-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Networking-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-IoT-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Programming-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Designing-blue)]().
 <!--
 **Anjanamb/Anjanamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### *Stuff I do*
+
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png"></code>
+<code><img height="30" src="https://blog.digilentinc.com/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png"></code>
+<code><img height="30" src="https://banner2.cleanpng.com/20180328/ezw/kisspng-solidworks-computer-aided-design-3d-computer-graph-work-5abb8876c7bd12.1780632115222396068181.jpg"></code>
+<code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/visual-studio-code.svg"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/29420733/70393939-c5821d80-19e7-11ea-8ebd-daaadd856287.png"></code> 
+
 
 <a href="https://github.com/Anjanamb/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjanamb&hide=jupyter%20notebook&layout=compact&theme=gruvbox&hide_border=true" /></a> 
