@@ -1,5 +1,8 @@
 ### Hello there, I'm Anjana Bandara 👋
 - 🔭 Currently I'm an undergraduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa](https://uom.lk/),[Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
+
+- 👀 I’m interested in Electronics, Telecommunication and industrial automation
+- 🌱 I’m an electronics and telecommunication engineering undergraduate
 <!--
 **Anjanamb/Anjanamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
