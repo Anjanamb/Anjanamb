@@ -30,3 +30,11 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Anjanamb/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjanamb&hide=jupyter%20notebook&layout=compact&theme=gruvbox&hide_border=true" /></a> 
+
+---
+
+### *Wanna reach me?*
+
+- Feel free to drop a line via [email](mailto:anjana4mb@gmail.com)
+- You may also find me on 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anjana-bandara-3015a01b9) and
