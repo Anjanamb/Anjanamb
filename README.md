@@ -1,5 +1,5 @@
 ### Hello there, I'm Anjana Bandara 👋
-- ✨I'm an undergraduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa](https://uom.lk/),[Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
+- 🌱I'm an undergraduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa](https://uom.lk/),[Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
 
 - ⚡ I’m interested in Electronics, Telecommunication and Networking.
 - ❤ I love [![Awesome Badges](https://img.shields.io/badge/%20-Electronics-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Telecommunication-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Networking-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-IoT-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Programming-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Designing-blue)]().
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 - Feel free to drop a line via [email](mailto:anjana4mb@gmail.com)
 - You may also find me on 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anjana-bandara-3015a01b9) and
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anjana-bandara-3015a01b9) 
