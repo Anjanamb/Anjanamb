@@ -2,7 +2,7 @@
 - 🌱I'm an undergraduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa](https://uom.lk/),[Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
 
 - ⚡ I’m interested in Electronics, Telecommunication and Networking.
-- ❤ I love [![Awesome Badges](https://img.shields.io/badge/%20-Electronics-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Telecommunication-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Networking-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-IoT-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Programming-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Product-Designing-blue)]().
+- ❤ I love [![Awesome Badges](https://img.shields.io/badge/%20-Electronics-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Telecommunication-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Networking-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-IoT-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Programming-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Product_Designing-blue)]().
 <!--
 **Anjanamb/Anjanamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
