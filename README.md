@@ -1,4 +1,4 @@
-### Hello there, I'm Anjana Bandara 👋
+### Hello there, I'm Anjana 👋
 - 🌱I'm an undergraduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa](https://uom.lk/),[Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
 
 - ⚡ I’m interested in Electronics, Telecommunication and Networking.
