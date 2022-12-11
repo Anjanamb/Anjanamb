@@ -36,7 +36,10 @@ Here are some ideas to get you started:
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anjanamb&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjanamb&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anjanamb&" alt="Anjanamb" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anjanamb&" alt="Anjanamb" />
+</p>
+
+
 ---
 
 ### *Wanna reach me?*
