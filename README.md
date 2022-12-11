@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 ---
 
----
-
 
 ### *My GitHub Stats*
 <p float="left">
