@@ -18,17 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-### *Stuff I do*
 
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png"></code>
-<code><img height="30" src="https://blog.digilentinc.com/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png"></code>
-<code><img height="30" src="https://banner2.cleanpng.com/20180328/ezw/kisspng-solidworks-computer-aided-design-3d-computer-graph-work-5abb8876c7bd12.1780632115222396068181.jpg"></code>
-<code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/visual-studio-code.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png"></code> 
-
-<h3 align="left">Languages and Tools:</h3>
+### *Languages and Tools*
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.altium.com/altium-designer/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png" alt="altium designer" width="40" height="40"/> </a> 
