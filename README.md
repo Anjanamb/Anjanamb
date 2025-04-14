@@ -1,8 +1,8 @@
-### Hello there, I'm Anjana 👋
-- 🌱I'm an undergraduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa](https://uom.lk/),[Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
+### Hello there, I'm Anjana Bandara 👋
+- 🌱I'm a graduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa](https://uom.lk/),[Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka) and currently pursuing a master's degree in [Artificial Intelligence and Data Science](https://www.heicad.hhu.de/lehre/masters-programme-ai-and-data-science) at [Heinrich Heine University Düsseldorf](https://www.hhu.de/).
 
-- ⚡ I’m interested in Electronics, Telecommunication and Networking.
-- ❤ I love [![Awesome Badges](https://img.shields.io/badge/%20-Electronics-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Telecommunication-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Networking-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-IoT-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Programming-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Product_Designing-blue)]().
+- ⚡ I’m interested in Deep Learning, Machine Learning, and Natural Language Processing.
+- ❤ I love [![Awesome Badges](https://img.shields.io/badge/%20-Deep%20Learning-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Machine%20Learning-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Natural%20Language%20Processing-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Representation%20Learning-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Computer%20Vision-blue)]().
 <!--
 **Anjanamb/Anjanamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
