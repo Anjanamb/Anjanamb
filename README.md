@@ -40,9 +40,10 @@
 <p align="center">
   <!-- Use your own Vercel deployment for reliability -->
   <a href="https://git.io/streak-stats">
-    <img width="420em" src="https://your-vercel-deploy.vercel.app/?user=Anjanamb&theme=radical" alt="GitHub Streak"/>
+    <img width="420em" src="https://github-readme-streak-stats-eight.vercel.app?user=Anjanamb&theme=radical" alt="GitHub Streak"/>
   </a>
 </p>
+
 
 ---
 
