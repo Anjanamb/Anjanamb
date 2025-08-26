@@ -1,54 +1,67 @@
-### Hello there, I'm Anjana Bandara 👋
-- 🌱I'm a graduate of [Electronics & Telecommunication Engineering](https://ent.uom.lk/) at [Univerisity of Moratuwa](https://uom.lk/),[Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka) and currently pursuing a master's degree in [Artificial Intelligence and Data Science](https://www.heicad.hhu.de/lehre/masters-programme-ai-and-data-science) at [Heinrich Heine University Düsseldorf](https://www.hhu.de/).
-
-- ⚡ I’m interested in [![Awesome Badges](https://img.shields.io/badge/%20-Deep%20Learning-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Machine%20Learning-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Natural%20Language%20Processing-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Representation%20Learning-blue)]() [![Awesome Badges](https://img.shields.io/badge/%20-Computer%20Vision-blue)]().
-<!--
-**Anjanamb/Anjanamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
----
-
-### *Languages and Tools*
-<p align="left"> 
-<a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://www.solidworks.com/sites/default/files/2018-02/SWlogo33.svg" alt="solidworks" width="120" height="40"/> </a>
-<a href="https://www.altium.com/altium-designer/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png" alt="altium designer" width="40" height="40"/> </a> 
-<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.wireshark.org/assets/theme-2015/images/sflogo2.png" alt="wireshark" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.cyberbotics.com/" target="_blank" rel="noreferrer"> <img src="https://www.cyberbotics.com/assets/images/webots.png" alt="webots" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://nodered.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/5375661?s=200&v=4" alt="nodered" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
+<h1 align="center">Hi there, I'm Anjana Bandara 👋</h1>
+<h3 align="center">AI & Data Science Enthusiast | Engineer | Lifelong Learner</h3>
 
 ---
 
+### 👨‍🎓 About Me
+- 🎓 Graduate in [Electronics & Telecommunication Engineering](https://ent.uom.lk/) from [University of Moratuwa](https://uom.lk/), Sri Lanka.  
+- 📚 Currently pursuing a **Master’s in [Artificial Intelligence and Data Science](https://www.heicad.hhu.de/lehre/masters-programme-ai-and-data-science)** at [Heinrich Heine University Düsseldorf](https://www.hhu.de/).  
+- 💡 Passionate about applying **AI/ML, NLP, Representation Learning, and Computer Vision** to solve real-world challenges.  
+- 🌍 Dreaming of becoming a **Digital Nomad** 🌱.  
 
-### *My GitHub Stats*
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anjanamb&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjanamb&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anjanamb&" alt="Anjanamb" />
+---
+
+### ⚡ Interests
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-blue?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-blue?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-blue?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Representation%20Learning-blue?style=for-the-badge&logo=PyTorch&logoColor=white" />
 </p>
 
+---
+
+### 🛠️ Languages & Tools
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,docker,tensorflow,pytorch,opencv,arduino,matlab" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=azure,aws,mysql,postgresql,vscode,idea,postman" />
+</p>
 
 ---
 
-### *Wanna reach me?*
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anjanamb&show_icons=true&count_private=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjanamb&layout=compact&langs_count=8&theme=radical"/>
+</p>
 
-- Feel free to contact me via [email](mailto:anjana4mb@gmail.com)
-- You may also find me on 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anjana-bandara-3015a01b9) 
+<p align="center">
+  <!-- Use your own Vercel deployment for reliability -->
+  <a href="https://git.io/streak-stats">
+    <img width="420em" src="https://your-vercel-deploy.vercel.app/?user=Anjanamb&theme=radical" alt="GitHub Streak"/>
+  </a>
+</p>
+
+---
+
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjanamb&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:anjana4mb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anjana-bandara-3015a01b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/anjana_bandara_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Anjanamb&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" /> 
+</p>
