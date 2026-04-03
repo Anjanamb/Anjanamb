@@ -33,11 +33,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anjanamb&show_icons=true&count_private=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjanamb&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
-<p align="center">
   <!-- Use your own Vercel deployment for reliability -->
   <a href="https://git.io/streak-stats">
     <img width="420em" src="https://github-readme-streak-stats-eight.vercel.app?user=Anjanamb&theme=radical" alt="GitHub Streak"/>
