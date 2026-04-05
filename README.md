@@ -1,63 +1,140 @@
-<h1 align="center">Hi there, I'm Anjana Bandara 👋</h1>
-<h3 align="center">AI & Data Science Enthusiast | Engineer | Lifelong Learner</h3>
+<div align="center">
+
+```
+ █████╗ ███╗   ██╗     ██╗ █████╗ ███╗   ██╗ █████╗
+██╔══██╗████╗  ██║     ██║██╔══██╗████╗  ██║██╔══██╗
+███████║██╔██╗ ██║     ██║███████║██╔██╗ ██║███████║
+██╔══██║██║╚██╗██║██   ██║██╔══██║██║╚██╗██║██╔══██║
+██║  ██║██║ ╚████║╚█████╔╝██║  ██║██║ ╚████║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+```
+
+<h3>AI & Data Science Enthusiast | Engineer | Lifelong Learner</h3>
+
+[![Portfolio](https://img.shields.io/badge/►_Explore_My_Terminal_Portfolio-2ea043?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://anjanamb.github.io)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=Anjanamb&label=visitors&color=2ea043&style=flat-square)](https://github.com/Anjanamb)
+
+</div>
 
 ---
 
-### 👨‍🎓 About Me
-- 🎓 Graduate in [Electronics & Telecommunication Engineering](https://ent.uom.lk/) from [University of Moratuwa](https://uom.lk/), Sri Lanka.  
-- 📚 Currently pursuing a **Master’s in [Artificial Intelligence and Data Science](https://www.heicad.hhu.de/lehre/masters-programme-ai-and-data-science)** at [Heinrich Heine University Düsseldorf](https://www.hhu.de/).  
-- 💡 Passionate about applying **AI/ML, NLP, Representation Learning, and Computer Vision** to solve real-world challenges.  
-- 🌍 Dreaming of becoming a **Digital Nomad** 🌱.  
+```bash
+anjanamb@github:~$ whoami --verbose
+```
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   user        : Anjana Bandara                                       │
+│   location    : Munich, Germany 📍                                   │
+│   role        : MSc Student · AI & Data Science                      │
+│   university  : Heinrich Heine University Düsseldorf                 │
+│   prev_degree : BSc Electronics & Telecom @ University of Moratuwa   │
+│                                                                      │
+│   ┌────────────────────────────────────────────────────────┐         │
+│   │  CAREER PATH                                           │         │
+│   │                                                        │         │
+│   │  2019 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2025   │         │
+│   │       ▓▓▓▓▓▓▓▓▓▓                                      │         │
+│   │       Electronics & Telecom Engineering                │         │
+│   │                   ▓▓▓▓▓▓▓▓                             │         │
+│   │                   Network Engineering                  │         │
+│   │                       ▓▓▓▓▓▓▓▓▓▓▓▓▓                   │         │
+│   │                       IoT & Automation                 │         │
+│   │                                  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  │         │
+│   │                                  AI & ML Research >>>  │         │
+│   └────────────────────────────────────────────────────────┘         │
+│                                                                      │
+│   mission  : Applying AI/ML, NLP, Representation Learning            │
+│              and Computer Vision to solve real-world challenges       │
+│   dream    : Becoming a Digital Nomad 🌍🌱                           │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### ⚡ Interests
+```bash
+anjanamb@github:~$ neofetch --interests
+```
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Deep%20Learning-blue?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-blue?style=for-the-badge&logo=OpenAI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-blue?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Representation%20Learning-blue?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-2ea043?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-2ea043?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-2ea043?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-2ea043?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Representation_Learning-2ea043?style=for-the-badge&logo=PyTorch&logoColor=white" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+```bash
+anjanamb@github:~$ pacman -Q --installed
+```
+
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,docker,tensorflow,pytorch,opencv,arduino,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,git,github,linux,docker,tensorflow,pytorch,opencv&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=azure,aws,mysql,postgresql,vscode,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=arduino,matlab,azure,aws,mysql,postgresql,vscode,idea,postman&theme=dark" />
 </p>
+
+<details>
+<summary>&nbsp;📦 <b>Expand full toolbox</b></summary>
+<br/>
+
+| Domain | Technologies |
+|:--|:--|
+| **AI / ML** | PyTorch, TensorFlow, scikit-learn, HuggingFace, spaCy, OpenCV |
+| **Languages** | Python, C++, C#, JavaScript, Verilog, MATLAB |
+| **IoT & Automation** | Node-RED, MQTT, InfluxDB, FastAPI, Docker |
+| **Networking** | Cisco, Fortinet, Juniper, Huawei, Aruba (CCNA) |
+| **Cloud & Data** | Azure, AWS, MySQL, PostgreSQL, TimescaleDB |
+| **Dev Tools** | Git, Linux, VS Code, IntelliJ, Postman, LaTeX |
+
+</details>
 
 ---
 
-### 📊 GitHub Stats
+```bash
+anjanamb@github:~$ git log --oneline --graph
+```
+
 <p align="center">
-  <!-- Use your own Vercel deployment for reliability -->
   <a href="https://git.io/streak-stats">
-    <img width="420em" src="https://github-readme-streak-stats-eight.vercel.app?user=Anjanamb&theme=radical" alt="GitHub Streak"/>
+    <img width="450em" src="https://github-readme-streak-stats-eight.vercel.app?user=Anjanamb&theme=dark&hide_border=true&ring=2ea043&fire=2ea043&currStreakLabel=2ea043&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
   </a>
 </p>
 
-
 ---
 
-### 📈 Contribution Activity
+```bash
+anjanamb@github:~$ cat /var/log/commits.log
+```
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjanamb&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjanamb&theme=github-dark&hide_border=true&color=2ea043&line=2ea043&point=58a6ff&area=true&area_color=2ea043" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+```bash
+anjanamb@github:~$ cat ~/.config/socials.json
+```
+
 <p align="center">
-  <a href="mailto:anjana4mb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anjana-bandara-3015a01b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/anjana_bandara_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://anjanamb.github.io"><img src="https://img.shields.io/badge/🖥_Terminal_Portfolio-2ea043?style=for-the-badge&logoColor=white"/></a>
+  <a href="mailto:anjana4mb@gmail.com"><img src="https://img.shields.io/badge/📧_Email-2ea043?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/anjana-b-"><img src="https://img.shields.io/badge/💼_LinkedIn-2ea043?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://www.instagram.com/anjana_bandara_"><img src="https://img.shields.io/badge/📸_Instagram-2ea043?style=for-the-badge&logoColor=white"/></a>
 </p>
 
----
+<div align="center">
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Anjanamb&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" /> 
-</p>
+```
+╔══════════════════════════════════════════════════════════╗
+║  → anjanamb.github.io  |  Type "help" to explore 💡     ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
