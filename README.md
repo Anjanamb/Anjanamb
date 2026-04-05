@@ -35,20 +35,24 @@ anjanamb@github:~$ whoami --verbose
 │   ┌────────────────────────────────────────────────────────┐         │
 │   │  CAREER PATH                                           │         │
 │   │                                                        │         │
-│   │  2019 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2025   │         │
-│   │       ▓▓▓▓▓▓▓▓▓▓                                      │         │
+│   │  2019 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2026     │         │ 
+│   │                                                        │         │ 
+│   │       ▓▓▓▓▓▓▓▓▓▓                                       │         │
 │   │       Electronics & Telecom Engineering                │         │
+│   │                                                        │         │
 │   │                   ▓▓▓▓▓▓▓▓                             │         │
 │   │                   Network Engineering                  │         │
-│   │                       ▓▓▓▓▓▓▓▓▓▓▓▓▓                   │         │
+│   │                                                        │         │
+│   │                       ▓▓▓▓▓▓▓▓▓▓▓▓▓                    │         │
 │   │                       IoT & Automation                 │         │
-│   │                                  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  │         │
+│   │                                                        │         │
+│   │                                  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   │         │
 │   │                                  AI & ML Research >>>  │         │
 │   └────────────────────────────────────────────────────────┘         │
 │                                                                      │
 │   mission  : Applying AI/ML, NLP, Representation Learning            │
-│              and Computer Vision to solve real-world challenges       │
-│   dream    : Becoming a Digital Nomad 🌍🌱                           │
+│              and Computer Vision to solve real-world challenges      │
+│   dream    : Becoming a Digital Nomad 🌍🌱                          │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
