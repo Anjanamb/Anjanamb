@@ -32,24 +32,6 @@ anjanamb@github:~$ whoami --verbose
 │   university  : Heinrich Heine University Düsseldorf                 │
 │   prev_degree : BSc Electronics & Telecom @ University of Moratuwa   │
 │                                                                      │
-│   ┌────────────────────────────────────────────────────────┐         │
-│   │  CAREER PATH                                           │         │
-│   │                                                        │         │
-│   │  2019 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2026     │         │ 
-│   │                                                        │         │ 
-│   │       ▓▓▓▓▓▓▓▓▓▓                                       │         │
-│   │       Electronics & Telecom Engineering                │         │
-│   │                                                        │         │
-│   │                   ▓▓▓▓▓▓▓▓                             │         │
-│   │                   Network Engineering                  │         │
-│   │                                                        │         │
-│   │                       ▓▓▓▓▓▓▓▓▓▓▓▓▓                    │         │
-│   │                       IoT & Automation                 │         │
-│   │                                                        │         │
-│   │                                  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   │         │
-│   │                                  AI & ML Research >>>  │         │
-│   └────────────────────────────────────────────────────────┘         │
-│                                                                      │
 │   mission  : Applying AI/ML, NLP, Representation Learning            │
 │              and Computer Vision to solve real-world challenges      │
 │   dream    : Becoming a Digital Nomad 🌍🌱                          │
