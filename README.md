@@ -80,8 +80,11 @@ I build intelligent systems that bridge hardware and software. Currently focused
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anjanamb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Anjana's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjanamb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=Anjanamb&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjanamb&theme=tokyo-night&bg_color=1a1b27&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Activity graph" />
 </p>
 
 <p align="center">
