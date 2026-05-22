@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=620&lines=AI%2FML+Researcher+%C2%B7+MSc+AI+%26+Data+Science%2C+HHU+D%C3%BCsseldorf;Reducing+hallucinations+in+task-oriented+dialogue;Industrial+IoT+%C2%B7+Time-series+ML+%C2%B7+Embedded+systems;Network+Engineer+%E2%86%92+IoT+Automation+%E2%86%92+AI%2FML+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=720&lines=AI%2FML+Researcher+%C2%B7+MSc+AI+%26+Data+Science%2C+HHU+D%C3%BCsseldorf;Reducing+hallucinations+in+task-oriented+dialogue;Industrial+IoT+%C2%B7+Time-series+ML+%C2%B7+Embedded+systems;Network+Engineer+%E2%86%92+IoT+Automation+%E2%86%92+AI%2FML+Researcher" alt="Typing SVG" />
   </a>
 </p>
 
