@@ -30,7 +30,7 @@ I build intelligent systems that bridge hardware and software. Currently focused
 |---|---|
 | 🖥️ **[wattson](https://github.com/Anjanamb/wattson)** | DL-workload-aware system monitor — `textual` TUI with GPU-aware process table, NVML temps, 1 Hz refresh. Active development. |
 | 📈 **[tft-ppo-pairs-trader](https://github.com/Anjanamb/tft-ppo-pairs-trader)** | Temporal Fusion Transformer + PPO for multi-asset pairs trading. DuckDB · Gymnasium · walk-forward backtesting. |
-| 🔧 **[sensor-anomaly-detection](https://github.com/Anjanamb/sensor-anomaly-detection)** · [🚀 demo](https://sensor-anomaly-detection-aj.streamlit.app/) | Turbofan engine anomaly detection on NASA C-MAPSS. Isolation Forest F1 = 0.777 + Streamlit dashboard. |
+| 🔧 **[sensor-anomaly-detection](https://github.com/Anjanamb/sensor-anomaly-detection)** · [🚀 demo](https://sensor-anomaly-detection-aj.streamlit.app/) | Unsupervised anomaly detection on NASA C-MAPSS turbofans. 5 detectors across FD001–FD004; SHAP attribution surfaced that the model picks up HPC degradation through bypass-duct pressure before direct sensors drift. Streamlit + Power BI surfaces. |
 | 🔬 **[Digital-IC-NN-Duplication](https://github.com/Anjanamb/Digital-IC-Functionality-Duplication-Using-NN)** | NN-based digital twin for sequential circuits. Published at IEEE 2023. |
 | 🖼️ **[image-downsampling-processor](https://github.com/Anjanamb/custom-image-downsampling-processor)** | Verilog low-pass + downsample-by-2 processor, validated against Python reference via SSD. |
 
