@@ -22,14 +22,14 @@ I build intelligent systems that bridge hardware and software. Currently focused
 
 - 🧠 **Lab Rotation 2 @ HHU** — DPO-based hallucination reduction on dialogue NLG. Strict preferences beat gold/random by 4–6× on faithfulness; working paper underway.
 - 🏭 **RIF Institut, Dortmund** — Containerised brewery process control: PLC over MQTT, time-series replay via FastAPI + InfluxDB, Streamlit ops dashboards.
-- 📈 **Side project** — TFT + PPO pairs trader: forecasting + RL execution across crypto/equities/ETFs/commodities.
+- 📈 **Recently wrapped** — TFT + PPO pairs trader: an end-to-end, CI-tested forecasting + RL stat-arb pipeline whose look-ahead-free walk-forward honestly showed no edge over a SPY buy-and-hold (the value is the rigour, not a backtest Sharpe).
 
 ### ⭐ Featured work
 
 | | |
 |---|---|
 | 🖥️ **[wattson](https://github.com/Anjanamb/wattson)** | DL-workload-aware system monitor — `textual` TUI with GPU-aware process table, NVML temps, 1 Hz refresh. Active development. |
-| 📈 **[tft-ppo-pairs-trader](https://github.com/Anjanamb/tft-ppo-pairs-trader)** | Temporal Fusion Transformer + PPO for multi-asset pairs trading. DuckDB · Gymnasium · walk-forward backtesting. |
+| 📈 **[tft-ppo-pairs-trader](https://github.com/Anjanamb/tft-ppo-pairs-trader)** | Temporal Fusion Transformer spread forecaster + PPO RL agent for multi-asset pairs trading (DuckDB · Gymnasium · Optuna/MLflow · Docker · CI, 41 tests). Built a look-ahead-free walk-forward backtester — hedge ratio *and* TFT refit per fold — that honestly showed the strategy has no edge over a SPY buy-and-hold: a pipeline rigorous enough to reject its own false positives. |
 | 🔧 **[sensor-anomaly-detection](https://github.com/Anjanamb/sensor-anomaly-detection)** · [🚀 demo](https://sensor-anomaly-detection-aj.streamlit.app/) | Unsupervised anomaly detection on NASA C-MAPSS turbofans. 5 detectors across FD001–FD004; SHAP attribution surfaced that the model picks up HPC degradation through bypass-duct pressure before direct sensors drift. Streamlit + Power BI surfaces. |
 | 🔬 **[Digital-IC-NN-Duplication](https://github.com/Anjanamb/Digital-IC-Functionality-Duplication-Using-NN)** | NN-based digital twin for sequential circuits. Published at IEEE 2023. |
 | 🖼️ **[image-downsampling-processor](https://github.com/Anjanamb/custom-image-downsampling-processor)** | Verilog low-pass + downsample-by-2 processor, validated against Python reference via SSD. |
